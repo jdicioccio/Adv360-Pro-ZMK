@@ -48,7 +48,7 @@
         &trans &trans &trans &trans &trans &trans  &none                                                       &none &trans &trans &trans &trans  &trans  &trans
         &trans &trans &trans &trans &trans &trans  &none        &trans &trans             &trans &trans        &none &trans &trans &trans &trans  &trans  &trans
         &trans &trans &trans &trans &trans &trans        &none  &none  &trans &none &none &trans &none  &none        &trans &trans &trans &trans  &trans  &trans
-        &trans &trans &trans &trans &trans               &trans &trans &trans             &trans &trans &trans              &trans &trans &trans  &trans  &trans
+        &trans &trans &trans &macro_prev_desktop &macro_next_desktop               &trans &trans &trans             &trans &trans &trans              &trans &trans &trans  &trans  &trans
       >;
     };
     mod {
